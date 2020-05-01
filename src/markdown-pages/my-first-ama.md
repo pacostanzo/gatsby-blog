@@ -1,7 +1,7 @@
 ---
-title: 'My First AMA'
+title: 'Roman X Roman'
 date: '2020-04-30'
-description: 'My first AMA :)'
+description: 'Roman'
 ---
 
 Thank you everyone who enjoyed the AMA! It was my first one and I'd love to do it again.
